@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael E. Sander"
+title                    : "zhihaozhu"
 title_separator          : "-"
-name                     : &name "Michael E. Sander"
-description              : &description "personal description"
-url                      : https://michaelsdr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "zhihaozhu"
+description              : &description "Personal Academic Website"
+url                      : https://zhihaozhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "michaelsdr/michaelsdr.github.io"
+repository               : "zhihaozhu/zhihaozhu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Michael E. Sander"
+  name             : "zhihaozhu"
   avatar           : profile.png
   bio              : 
   location         :  
-  twitter          : "m_e_sander"
+  twitter          :
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=COqAqcMAAAAJ&hl"
-  email            : 
+  googlescholar    :
+  email            : "zhzhu1998@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"michaelsdr"
+  github           : "zhihaozhu"
   google_plus      :
   keybase          :
   instagram        :
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
